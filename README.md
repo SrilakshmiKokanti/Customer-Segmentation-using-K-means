@@ -21,3 +21,4 @@ The analysis follows these key steps:
 2. **🧹 Data Preprocessing** – Cleaning and standardizing the data to prepare it for clustering.
 3. **📌 KMeans Clustering** – The primary algorithm used for segmentation. The number of clusters is determined using the **Elbow Method** and **Silhouette Score**.
 4. **📉 Dimensionality Reduction with PCA** – Applying **Principal Component Analysis (PCA)** to reduce the dimensions of the dataset and visualize the clusters effectively.
+5. **🔄 Compared multiple clustering algorithms like Affinity Propagation, DBSCAN, and Gaussian Clustering for better insights.
